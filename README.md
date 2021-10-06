@@ -1,2 +1,4 @@
-# troy.github.io
-Aimed to be used as a blog.
+# TroyDanielFZ.github.io
+
+用来写写博客。
+
